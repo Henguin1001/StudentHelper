@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Henguin1001/StudentHelper/issues"
   },
-  "homepage": "https://github.com/Henguin1001/StudentHelper#readme"
+  "homepage": "https://github.com/Henguin1001/StudentHelper#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
 }
