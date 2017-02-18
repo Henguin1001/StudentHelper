@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Henguin1001/StudentHelper#readme",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "mongoose": "^4.8.3"
   }
 }
